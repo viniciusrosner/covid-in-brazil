@@ -2,4 +2,4 @@
 
 
 
-to run locally run this command in the terminal: #npm run local 
+to run locally run this command in the terminal: npm run local
