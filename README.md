@@ -2,4 +2,7 @@
 
 
 
-to run locally run this command in the terminal: npm run local
+web application showing information about covid in brazil
+
+
+to run locally in the terminal use the command: npm run local
