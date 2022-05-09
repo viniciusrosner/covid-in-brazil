@@ -1,6 +1,5 @@
 # covid-in-brazil
 
 
-## npm run local
 
-launches locally
+to run locally run this command in the terminal: npm run local 
